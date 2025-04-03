@@ -104,3 +104,5 @@ db.sqlite3-journal
 data/
 models/
 checkpoints/
+
+*env
