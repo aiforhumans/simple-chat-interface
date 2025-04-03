@@ -1,0 +1,11 @@
+[
+  "test_chat.py::test_add_to_conversation",
+  "test_chat.py::test_basic_conversation_flow",
+  "test_chat.py::test_chat_completion",
+  "test_chat.py::test_chat_error_handling",
+  "test_chat.py::test_conversation_creation",
+  "test_chat.py::test_conversation_retrieval",
+  "test_chat.py::test_message_formatter_creation",
+  "test_chat.py::test_message_formatting",
+  "test_chat.py::test_response_formatting"
+]
